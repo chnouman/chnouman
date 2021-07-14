@@ -8,7 +8,7 @@
 * 📱 Android Developer
 * 🤓 Augmented Reality
 * 😌 Working with [@IBM](https://ibm.com/)
-* 🐶 Creator of Amazing Apps including [@Moment](https://inthemoment.io)
+* 🐶 Creator of Amazing Apps including [@JazzCashBusiness](https://play.google.com/store/apps/details?id=com.ibm.jazzcashmerchant) and @JazzCash(https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer)
 * 📸 StackOverFlow Member 
 * 📝 Open Source Contributor
 * 🚀 Love towards Augmented Reality and history Never ends
