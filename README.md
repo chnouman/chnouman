@@ -1,7 +1,7 @@
 ### Hi there, I'm Nouman👋
 
 
-# A Passionate Senior Android and Augmented Reality Engineer 🚀 
+# A Passionate Senior Android Engineer 🚀 
 
 ## About Me 🤷🏻‍♂️
 
