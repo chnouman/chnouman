@@ -1,12 +1,12 @@
 ### Hi there, I'm Nouman👋
 
 
-# A Passionate Senior Android Engineer 🚀 
+# A Passionate Senior Android and Flutter Engineer 🚀 
 
 ## About Me 🤷🏻‍♂️
 
-* 📱 Senior Android Developer
-* 🤓 Augmented Reality
+* 📱 Senior Android and Flutter Developer
+* 🤓 Health and Finance is my Favourite
 * 😌 Working with [@IBM](https://ibm.com/)
 * 🐶 Creator of Amazing Apps including [@JazzCashBusiness](https://play.google.com/store/apps/details?id=com.ibm.jazzcashmerchant) and [@JazzCash](https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer)
 * 📸 StackOverFlow Member 
