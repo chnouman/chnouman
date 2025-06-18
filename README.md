@@ -17,9 +17,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chnouman/)
 [![StackOverFlow](https://img.shields.io/stackexchange/stackoverflow/r/6236752?style=for-the-badge)](https://stackoverflow.com/users/6236752/nouman-ch)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/codewithnomi/)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCaQO8eigwLUe5Ktl3UZrEDA)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/chnouman200)
+
 
 
 ## Projects made with ❤️ 
