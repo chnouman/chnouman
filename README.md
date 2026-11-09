@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Nouman 👋
 
-### Senior Android & Flutter Engineer
+### Senior Kotlin & Android Engineer
 
 **Building thoughtful mobile experiences for automotive, fintech, health, and commerce.**
 
